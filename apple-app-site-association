@@ -1,9 +1,13 @@
 {
   "applinks": {
     "apps": [],
-    "details":[{
-      "appID":"GJFP5Z5FEA.me.3dlook.uniformpro",
-      "paths": ["*"]
-    }]
+    "details": [
+      {
+        "appID": "GJFP5Z5FEA.me.3dlook.uniformpro",
+        "paths": [
+          "*"
+        ]
+      }
+    ]
   }
 }
